@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "Tender": {
+      "properties": {
+        "twitterURL": {
+          "title": "Twitter URL",
+          "description": "URL to the organizations Twitter account",
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "url"
+        }
+      }
+    }
+  }
+}
